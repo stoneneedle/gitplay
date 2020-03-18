@@ -6,4 +6,6 @@ This is a test of github branches and version control.
 
 Mary had a little lamb is how we'll start.
 
-Then she went to WH and got C19 and died.
+And she lived happily ever after.
+
+The end.
